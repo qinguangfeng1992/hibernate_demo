@@ -1,0 +1,11 @@
+# this mysql's Driver
+mysqlName=com.mysql.jdbc.Driver
+
+# this mysql's username
+username=root
+
+# this mysql's password
+password=hzit
+
+# this mysql's url
+url=jdbc:mysql://127.0.0.1:3306/studb?useUnicode=true&characterEncoding=utf8

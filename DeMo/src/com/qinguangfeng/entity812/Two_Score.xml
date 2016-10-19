@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scores>
+	<student id="S1">
+		<name>王同</name>
+		<class>java</class>
+		<score>78</score>
+	</student>
+
+	<student id="S2">
+		<name>林雨</name>
+		<class>c++</class>
+		<score>18</score>
+	</student>
+	<student id="S3">
+		<name>S3</name>
+		<class>Object-c</class>
+		<score>34</score>
+	</student>
+</scores>
